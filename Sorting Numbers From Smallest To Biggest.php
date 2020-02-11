@@ -1,6 +1,6 @@
 <?php
 
-//this algorithm for arranging numbers of an array from smallest to the biggest value.
+//this algorithm for sorting the numbers of an array from smallest to the biggest value.
 //By Othmane Marzouq
 //otmaninfo@gmail.com
 
