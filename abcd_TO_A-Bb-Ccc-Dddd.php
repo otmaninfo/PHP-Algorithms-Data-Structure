@@ -1,6 +1,7 @@
 <?php
 
 // This function duplicate the character by the number of his position in the string
+// By Othmane Marzouq
 
 $text = "abcd"; // Example Output : A-Bb-Ccc-Dddd
 
