@@ -4,7 +4,7 @@
 
 $text = "abcd"; // Output : A-Bb-Ccc-Dddd
 
-function find($text) {
+function MagicDuplicate($text) {
  
   $array = str_split($text);
   $count =  count($array);
