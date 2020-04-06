@@ -2,7 +2,7 @@
 
 // This function duplicate the character by the number of his position in the string
 
-$text = "abcd"; // Output : A-Bb-Ccc-Dddd
+$text = "abcd"; // Example Output : A-Bb-Ccc-Dddd
 
 function MagicDuplicate($text) {
  
